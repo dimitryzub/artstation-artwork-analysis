@@ -16,6 +16,8 @@ Dataset includes such columns:
 - Artwork title
 - Artwork URL
 
+Kaggle dataset available [here](https://www.kaggle.com/dimitryzub/artstation).
+
 As you see the disclaimer, it's the first time I'm doing this. I want anyone who will be using this dataset to keep artists privacy by **not** using **artist's email addresses** in any way even though it's publicly available data published by them. Correct me if I said something wrong here.
 
 ### Goals
