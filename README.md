@@ -20,12 +20,12 @@ As you see the disclaimer, it's the first time I'm doing this. I want anyone who
 
 ### Goals
 
-The goal of this project was to better understand the process of gathering data, processing, cleaning, analyzing and vizualizing. 
-Besides that, I wanted to understand what is the most popular software, tag, affiliation amoung artists.
+The goal of this project was to better understand the process of gathering data, processing, cleaning, analyzing, and visualizing. 
+Besides that, I wanted to understand what is the most popular software, tag, affiliation among artists.
 
 ### Inspiration
 
-While transitioning from 3D modeling to Data Analytics and Python Programming I decided to create a personal project to analyze something I have a close connection. I really enjoyed seeing progression in the 3D world (games, feature films, etc).
+While transitioning from 3D modeling to Data Analytics and Python Programming I decided to create a personal project to analyze something I have a close connection with. I really enjoyed seeing progression in the 3D world (games, feature films, etc).
 
 ### To scrape data these Python libraries/packages were used:
 - `requests`
@@ -40,7 +40,8 @@ While transitioning from 3D modeling to Data Analytics and Python Programming I 
 
 ## Visualization 
 
-[Tableau dashboard](https://public.tableau.com/app/profile/dimitry.zub/viz/Artstationanalysis/ArtstationDashboard)
+Note: *following visualizations contains data bias. Not every tag, affiliation has taken to count due to the difficulties of data extraction, and the mistakes I made.*
+[Tableau public dashboard](https://public.tableau.com/app/profile/dimitry.zub/viz/Artstationanalysis/ArtstationDashboard)
 
 ![image](https://user-images.githubusercontent.com/78694043/119978304-23cb0380-bfc2-11eb-8b70-e84100fa7630.png)
 
