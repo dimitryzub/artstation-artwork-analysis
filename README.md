@@ -50,6 +50,3 @@ Note: *following visualizations contains data bias. Not every tag, affiliation h
 ![image](https://user-images.githubusercontent.com/78694043/119978269-1ada3200-bfc2-11eb-981f-b8ad2c2c0ff1.png)
 
 ![image](https://user-images.githubusercontent.com/78694043/119978237-101f9d00-bfc2-11eb-9285-e0d9bcf688ee.png)
-
-> Disclaimer, I have no idea what I'm doing. I'm learning data analysis for a little over a month. I just really like the process and the power of data.
-
